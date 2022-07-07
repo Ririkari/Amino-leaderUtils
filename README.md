@@ -34,7 +34,7 @@
 *Everything from this list will be eliminated in the future.*
 
 1. **--at the moment, the table must be compiled according to this sample beforehand before connecting the table to the bot according to this example**
-![sheetsExample](https://github.com/Ririkari/Amino-leaderUtils/blob/master/img/sheets_xample.png)
+![sheetsExample](https://github.com/Ririkari/Amino-leaderUtils/blob/master/img/sheets_example.png)
 2. **--Every month you yourself need to update the dates**
 
 
